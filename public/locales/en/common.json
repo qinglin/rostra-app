@@ -1,4 +1,109 @@
 {
-  "title": "The Rostra Guild",
-  "description": "The Rostra Guild is a guild of the dwarves that has been in the dwarven lands for a long time. They are known for their great strength and their ability to wield weapons of great power. They are also known for their great knowledge of the dwarven language."
+  "title": "Rostra",
+  "description": "Tokenize your learning and research",
+  "mission": "Rostra is dedicted to build a decentralized education and research system, so as to promoto the open access and innovation of knowledge.",
+  "action": {
+    "gotoapp": "Begin to Try"
+  },
+  "problems": {
+    "title": "Problems",
+    "edu": {
+      "title": "The problems of the current education system",
+      "admittance": {
+        "title": "Access Mechanism",
+        "description": "Use score as the single dimension to measure whether a person can obtain good education resources"
+      },
+      "system": {
+        "title": "Education System",
+        "description": "The idea of education is outdated. People are treated as line products, everyone is learning at the same pace, diversified and individualized education cannot be provided \n The knowledge system is updating slow, while not keeping up with the change of times"
+      },
+      "evaluation": {
+        "title": "Competency Assessment System",
+        "description": "Centralization of power of the certification authority\n Certificate is only one-sided, can not show individual ability and character stereoscopically"
+      },
+      "autonomy": {
+        "title": "Governance Mechanism",
+        "description": "For those students who are most concerned about their future, on the contrary, they have no right to govern"
+      },
+      "reward": {
+        "title": "Reward Mechanism",
+        "description": "Students have to pay high tuition fees in advance for several years, while cannot apply what they learned to related area, even hard to find suitable job safter graduation"
+      }
+    },
+    "research": {
+      "title": "Problems of the existing scientific research system",
+      "ownership": {
+        "title": "Ownership",
+        "description": "Some People’s scientific research/first byline does not belong to them, or even can not be publicly accessed"
+      },
+      "reward": {
+        "title": "Reward System",
+        "description": "After the publication of scientific research papers, the interests are monopolized by the publishing group\nAfter the scientific research achievement forms the product, the enterprise has obtained the maximum benefit, but the scientific research personnel has not obtained with the contribution matching reward"
+      },
+      "creative": {
+        "title": "Innovation promotion mechanism",
+        "description": "Many valuable research results are not open, which affects the speed of knowledge transformation into products and hinders the progress of society to some extent"
+      },
+      "rating": {
+        "title": "Value evaluation",
+        "description": "Centralization of scientific research achievements rating system\nUnder the current grading system, papers can only be published in a limited number of journals"
+      },
+      "funding": {
+        "title": "Funding distribution",
+        "description": "The power to distribute research funding is centralized, even by a few people who do not understand the latest social developments"
+      }
+    }
+  },
+  "changes": {
+    "title": "What Can Rostra Bring to Change",
+    "edu": {
+      "title": "Education",
+      "target1":"Promote equitable access to knowledge",
+      "target2":"Promote social diversity",
+      "target3":"encourage and support self-exploration",
+      "target4": "Make personalized education truly viable",
+      "target5": "Make learners acquire the lastest knowledge in time",
+      "target6": "Decentralize the authority of certificate issuance",
+      "target7": "Form a decentralized capability evaluation system",
+      "target8": "Learn to earn"
+    },
+    "research": {
+      "title": "Research",
+      "target1":"Establish reasonable ownership mechanisms,  so as to let individuals have the ownership of their own scientific research",
+      "target2":"Change the reward mechanism of scientific research",
+      "target3":"Form a decentralized system of value discovery and evaluation",
+      "target4": "peed up the transformation process of scientific research achievements",
+      "target5": "Promote the open access to scientific research"
+    }  
+  },
+  "how": {
+    "title": "How to achieve?",
+    "description": "Open Source + Block Chain\nRostra will ultilize open source softwares and block chain technology to provide a new model of knowledge governance, thus to lead the innovation of education and research"
+  },
+  "contribute": {
+    "title": "How to contribute?",
+    "detail": {
+      "title": "Create \"Rostra Contributor Guild\". Using Open Source and Dao governance to advance the project:",
+      "period": "Two weeks Sprint",
+      "task": "Each Sprint opens for signing up and task assignments",
+      "evaluation": "Peer assessment of contribution every week, to obtain points, for future rewards distribution"
+    },
+    "discord": "Join discord. Get the apply way:",
+    "notion": "Rostra Information Distribution Center:"
+  },
+  "members": "Members of DAO",
+  "media": {
+    "about": "About",
+    "docs": "Docs",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "github": "GitHub"
+  },
+  "link": {
+    "discord": "https://discord.gg/c6BfH8JQn6",
+    "github": "https://github.com/rebase-network/rostra-contracts",
+    "mirror": "https://mirror.xyz/0x22Acb9bb4A79b462B55049ba972608545C50e6fC/5vWc8a1eLCPXLqHILz9YCesNUmn89z0T5r19eOAsuMs",
+    "notion": "https://rostra.notion.site",
+    "twitter": "https://twitter.com/rostra_xyz"
+  }
 }
